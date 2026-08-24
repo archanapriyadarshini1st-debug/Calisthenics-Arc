@@ -93,6 +93,12 @@ This file is the long-term skill record for the Calisthenics Arc mentor system. 
 - Skin the cat
 - Advanced calisthenics transitions/combinations
 
+### One-Month Skill Unlock Flex
+
+- User reports that the large batch of advanced skills listed around Months 6–7 was unlocked within approximately **1 month**.
+- This was performed at age **13**, using a **monkey grip on a window grill** as the training setup.
+- This is recorded as a historical achievement/context note, not as a recommendation to reproduce the same setup.
+
 ### Later Milestone
 
 - Unlocked **500 consecutive push-ups**
