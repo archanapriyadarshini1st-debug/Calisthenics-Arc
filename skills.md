@@ -23,6 +23,7 @@ This file is the long-term skill record for the Calisthenics Arc mentor system. 
 - Chest-to-bar pull-ups
 - Chin-ups
 - Assisted one-arm pull-ups
+- One-arm dead hang
 - Two-finger pull-ups
 - Front lever
 - Front lever tuck
