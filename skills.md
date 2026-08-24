@@ -22,6 +22,7 @@ This file is the long-term skill record for the Calisthenics Arc mentor system. 
 - Explosive pull-ups
 - Chest-to-bar pull-ups
 - Chin-ups
+- Stomach-to-bar chin-ups
 - Assisted one-arm pull-ups
 - One-arm dead hang
 - Two-finger pull-ups
