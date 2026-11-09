@@ -44,6 +44,13 @@ The mentor should prefer gradual progression based on demonstrated performance. 
 
 Recovery matters. A workout should not automatically become harder every day; fatigue, soreness, technique quality, and recent training history should influence progression.
 
+## Exercise library and research
+
+- [Exercise catalogue](./exercise-catalogue.md) — controlled bodyweight movements and meaningful variations, grouped by movement pattern.
+- [Research and coverage audit](./exercise-research-audit.md) — sources, ten coverage checks, scope limits, and update procedure.
+
+The catalogue is a reference index, not a workout prescription or an exhaustive list of every exercise published online. High-risk acrobatic and extreme-leverage skills are intentionally excluded.
+
 ## Directory structure
 
 ```text
